@@ -1,0 +1,24 @@
+-Journal de bord-
+Lundi 02/11/2020 : Réalisation du readme et du journal de bord.
+Lundi 09/11/2020 : Fin du readme et réalisation du diagramme de dépendence des différents modules.
+Jeudi 12/11/2020 : Installation valgrind + création database.c et database.h, et import des fichiers sdl.
+Lundi 16/11/2020 : Modifications des fichiers sdl (utilisations des fonctions crées lors du TP1) + création des fichiers graphique.c/.h
+Mercredi 18/11/2020 : Création du sprite background + correction de la fonction apply image
+Jeudi 19/11/2020 : Fonctions d'affichage terminées et création des premiers sprites
+Lundi 23/11/2020 : Améliorations des fichiers suivants : Makefile, database.c/.h, events.c, fonctions_SDL.c/.h, graphique.c, création des fichiers suivants : game.c et init_and_clean.c/.h
+Mardi 24/11/2020 : Réalisation de player.c/.h, enemy.c/.h, update.c/.h et Modifications en conséquences.
+Dimanche 29/11/2020 : Codage déplacement/affichage/initialisation des ennemis (1 pour le moment) + améliorations diverses et avancement des sprites.
+Lundi 30/11/2020 : Affichage du sprite personnage en cours de codage + changements relatifs à l'utilisation de sprite sheet + Modifications de certains modules pour s'occuper des sprite sheet et avancement des sprites.
+Samedi 05/12/2020 : Affichage du personnage et déplacement + fin Sprite Sheet du personnage.
+Lundi 07/12/2020 : Ajouts de sprites + Remise à l'échelle de base de tous les sprites et du fond avec modifications suite à l'utilisation de valgrind.
+Jeudi 10/12/2020 : Animation de marche du personnage avec bug à régler (invisible).
+Samedi 12/12/2020 : Animation d'attaque + bug réglé.
+Mardi 15/12/2020 : Création des spritesheets du boss/de ses attaques, des attaques du personnage + Attaque retravaillée et animée + résolution de nombreux bugs + création de sprite sheets.
+Lundi 28/12/2020 : Résolution d'un bug majeur + Ajout du système d'attaque pour le joueur et les personnages.
+Mardi 29/12/2020 : Ecriture du système de création de carte (étage), en attente d'une implémentation concrète + Rework déplacement personnage et plus de problème de limites.
+Mercredi 30/12/2020 : Gestion finale des slimes + apparition aléatoire des monstres + gestion élimination de tous les monstres + affichage des couloirs qui menent aux salles et codage du passage entre elles.
+Jeudi 31/12/2020 : Implémentation affichage de texte sur l'écran + petite modification de coordonnées dans database.c + 
+Implémentation lecture de fichier de sauvegarde (en attente écriture) + vitesse d'attaque du personnage.
+Samedi 02/01/2021 : Implémentation missiles + Amélioration et complétion de la sauvegarde + petits ajouts diverses + 
+Gestion attaque sur missiles + petites améliorations + Ajouts d'écrans de transitions + gestion de pause et de rejouer. 
+Dimanche 03/01/2021 : Mise à niveau des écrans d'affichages + Ajout Boss + Version Finale

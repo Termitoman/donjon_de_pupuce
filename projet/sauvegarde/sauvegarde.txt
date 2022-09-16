@@ -1,0 +1,3 @@
+bonus_hp : 0
+bonus_atk_power : 0
+bonus_atk_speed : 0
